@@ -85,7 +85,7 @@ The file contain these following data:
 | delta_ST_Z    | degree    | (0, 90)     | $\Delta \sigma_{T} - Z$ |
 | delta_SB_Z    | degree    | (0, 90)     | $\Delta \sigma_{B} - Z$ |
 | delta_F_Z     | degree    | (0, 90)     | $\Delta F - Z$ |
-| MI            | -         | -           | Mantle influence index |
+| MI            | -         | (-1,1)          | Mantle influence index |
 $\*$ The range is not (0,360) because we only consider azimuth not direction
 
 Last modified: 07/02/24
